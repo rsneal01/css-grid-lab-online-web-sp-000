@@ -10,7 +10,7 @@ body {
   height: 100vh;
   width: 100vw;
   /* your properties here */
-  grid-auto-rows: 50px;
+  
 }
 
 .grid-item {
